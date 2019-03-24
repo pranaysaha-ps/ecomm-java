@@ -1,0 +1,9 @@
+Pre-requisite to run the code:
+1. Inventory items
+2. Users
+
+How to fulfill the pre-requisite?
+1. Go to the DemoApplication file(main file), uncomment the code which has been written.
+2. Run the code. 
+3. It will create the Inventory items and Users with basic details.
+4. Comment the code again so that Items-ID and User-ID stay constant throughout the application for further process.
